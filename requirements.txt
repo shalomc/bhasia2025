@@ -1,0 +1,13 @@
+openpyxl
+pandas
+pyzmq
+#
+###  for rebuiling pandas
+# numpy
+# cython
+# versioneer[toml]
+# wheel
+
+# git clone  https://github.com/pandas-dev/pandas.git
+# cd pandas
+# python3 setup.py bdist_wheel
