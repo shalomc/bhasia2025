@@ -1,4 +1,5 @@
-# office files
+# pc files
+.idea/
 *.xls*
 *.ppt*
 *.doc*
