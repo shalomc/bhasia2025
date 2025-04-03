@@ -1,5 +1,7 @@
+%%bash
 
-# upload and execute in /home/jovyan
+# execute in /home/jovyan
+
 cd $HOME
 mkdir fubar
 cd fubar
@@ -11,3 +13,4 @@ echo "    name='excelpypwn'," >> setup.py
 echo "    version='0.666.0'" >> setup.py
 echo ")" >> setup.py
 pip install .
+cd ..

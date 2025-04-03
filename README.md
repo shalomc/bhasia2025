@@ -10,6 +10,10 @@ You do not need python to exist on your PC,
 although python is required if you plan to expand and test some scripts locally before running them in Excel.
 A `requirements.txt` file is included in the repository to help you install the required packages.
 
+The `excel_py_setup.py` script is used to set up the environment for the project.
+
+Put it in the first cell of the first sheet of the `PY` function in Excel.
+
 The respository will be updated with new examples and scripts as we progress in our research.
 
 ## Project status
