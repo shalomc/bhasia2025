@@ -5,7 +5,7 @@
 *.doc*
 *.zip
 *.tgz
-uploads/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -180,4 +180,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-/src/upload-binaries/uploads/
