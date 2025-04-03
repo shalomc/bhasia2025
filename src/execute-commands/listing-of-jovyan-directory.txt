@@ -1,0 +1,8 @@
+total 28
+drwx-----T 2 jovyan users 4096 Nov 10 17:50 .
+drwxr-xr-x 3 jovyan users 4096 Nov 10 15:33 ..
+-rw-r--r-- 1 jovyan users  510 Nov 10 15:33 jpserver-46-open.html
+-rw------- 1 jovyan users  293 Nov 10 15:33 jpserver-46.json
+-rw------- 1 jovyan users   45 Nov 10 15:33 jupyter_cookie_secret
+-rw------- 1 jovyan users  334 Nov 10 17:50 kernel-2887dbed-c1d3-400a-9cbb-e0edc67ab7a7.json
+-rw------- 1 jovyan users  334 Nov 10 15:33 kernel-378e2803-c3bd-4405-bbbc-0e4cb946a3ff.json
